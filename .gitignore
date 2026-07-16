@@ -1,0 +1,25 @@
+# This repo is a static front-end showcase — no build, no server, no secrets.
+# Nothing here should ever be committed:
+
+# environment & secrets — NEVER commit
+.env
+.env.*
+*.pem
+*.key
+*.p12
+credentials*.json
+token*.json
+service-account*.json
+
+# dependencies / build output (none required, but guard anyway)
+node_modules/
+dist/
+.cache/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.log
