@@ -29,18 +29,20 @@ A premium product site with a live, in-browser **Judge Mode**: run voice command
 
 ## What this is
 
-**This repository is the website** — the marketing landing page and the interactive browser playground served at [www.evolvedmcp.cloud](https://www.evolvedmcp.cloud/). It is the front-of-house for **Evolved**, an MCP "business-in-a-box" agent (83 tools across 16 domains) built for the **OKX AI Genesis Hackathon** from the live operations system of a real Alberta abrasive-blasting company.
+**This repository is the website** — the marketing landing page and the interactive browser playground served at [www.evolvedmcp.cloud](https://www.evolvedmcp.cloud/). It is the front-of-house for **Evolved**, a complete, free, open-source business operating system built for the **OKX AI Genesis Hackathon** from the live operations system of a real Alberta abrasive-blasting company.
+
+Evolved is **four surfaces around one source of truth**: the 🧠 **MCP brain** (84 tools across 16 domains — [kr8tiv-ai/evolved](https://github.com/kr8tiv-ai/evolved)), the ✋ **crew field app** ([kr8tiv-ai/evolve-field-app](https://github.com/kr8tiv-ai/evolve-field-app)), the 📊 **Google Sheets workbook + Router spine** ([kr8tiv-ai/evolve-ops-workbook](https://github.com/kr8tiv-ai/evolve-ops-workbook)), and the 📈 **owner/administration dashboard** ([kr8tiv-ai/evolve-dashboard](https://github.com/kr8tiv-ai/evolve-dashboard), live at [ops.evolveecoblasting.com](https://ops.evolveecoblasting.com)). This repo is the *site* in front of all of it. Blasting is only the proving ground — `franchise_spinup` makes it any service business in one call.
 
 The design brief was simple and unusual for a hackathon: **make it feel like a product launch, not a developer demo — and let a judge understand and *try* the whole thing in about 60 seconds.** So the site leads with a one-click autopilot ("Judge Mode") that narrates the full story on its own, backed by real calls to the live service.
 
-> The agent, the 83 tools, the on-chain rails, and the business logic live in the main repo — **[kr8tiv-ai/evolved](https://github.com/kr8tiv-ai/evolved)**. This repo is the *site*: the page, the branding, the motion, and the demo film.
+> The agent, the 84 tools, the on-chain rails, and the business logic live in the main repo — **[kr8tiv-ai/evolved](https://github.com/kr8tiv-ai/evolved)**. This repo is the *site*: the page, the branding, the motion, and the demo film.
 
 <div align="center">
 
 |  |  |
 |:--:|:--:|
 | <img src="screenshots/01-cover.png" width="100%"><br><sub>Cinematic landing — aurora canvas, chrome wordmark, live business ticker</sub> | <img src="screenshots/02-lifecycle.png" width="100%"><br><sub>Judge Mode running the autonomous lifecycle, narrated live</sub> |
-| <img src="screenshots/03-onchain.png" width="100%"><br><sub>The raw x402 flow — 402 challenge, proof, settlement receipt</sub> | <img src="screenshots/04-toolkit.png" width="100%"><br><sub>The 83-tool surface, rendered as a product feature grid</sub> |
+| <img src="screenshots/03-onchain.png" width="100%"><br><sub>The raw x402 flow — 402 challenge, proof, settlement receipt</sub> | <img src="screenshots/04-toolkit.png" width="100%"><br><sub>The 84-tool surface, rendered as a product feature grid</sub> |
 
 </div>
 
@@ -121,7 +123,11 @@ evolvedmcp-cloud/
 | | |
 |---|---|
 | **Live site** | [www.evolvedmcp.cloud](https://www.evolvedmcp.cloud/) |
-| The Evolved agent (full source) | [github.com/kr8tiv-ai/evolved](https://github.com/kr8tiv-ai/evolved) |
+| **Live admin dashboard** | [ops.evolveecoblasting.com](https://ops.evolveecoblasting.com) (login-gated) |
+| 🧠 The Evolved MCP (the brain, full source) | [github.com/kr8tiv-ai/evolved](https://github.com/kr8tiv-ai/evolved) |
+| ✋ The crew field app (the hands) | [github.com/kr8tiv-ai/evolve-field-app](https://github.com/kr8tiv-ai/evolve-field-app) |
+| 📊 The workbook + Router (the spine) | [github.com/kr8tiv-ai/evolve-ops-workbook](https://github.com/kr8tiv-ai/evolve-ops-workbook) |
+| 📈 The owner/admin dashboard (the eyes) | [github.com/kr8tiv-ai/evolve-dashboard](https://github.com/kr8tiv-ai/evolve-dashboard) |
 | Health / status | [evolvedmcp.cloud/health](https://www.evolvedmcp.cloud/health) · [/stats](https://www.evolvedmcp.cloud/stats) |
 | The studio | [kr8tiv.io](https://kr8tiv.io) |
 
