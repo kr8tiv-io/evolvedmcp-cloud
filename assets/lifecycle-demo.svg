@@ -53,8 +53,8 @@
   <g class="l l6"><text x="28" y="236"><tspan class="a">◆ scheduled</tspan><tspan class="s"> first Good blast day</tspan><tspan class="d"> — 21°C, wind 12 km/h, precip 10%</tspan></text></g>
   <g class="l l7"><text x="28" y="266"><tspan class="a">◆ flha     </tspan><tspan class="s"> 8 hazards drafted from scope</tspan><tspan class="d"> — mitigations, PPE, muster point</tspan></text></g>
   <g class="l l8"><text x="28" y="296"><tspan class="a">◆ complete </tspan><tspan class="s"> 43% margin</tspan><tspan class="d"> · media burned down from inventory · FLHA signed off</tspan></text></g>
-  <g class="l l9"><text x="28" y="326"><tspan class="a">◆ invoiced </tspan><tspan class="s"> balance $1,977 → 19.77 OKB</tspan><tspan class="d"> on X Layer testnet (eip155:1952)</tspan></text></g>
-  <g class="l l10"><text x="28" y="356"><tspan class="g">▓ GATE     </tspan><tspan class="s"> confirm-payment</tspan><tspan class="d"> — txHash verified on-chain, or simulated in demo</tspan></text></g>
+  <g class="l l9"><text x="28" y="326"><tspan class="a">◆ invoiced </tspan><tspan class="s"> balance $1,977</tspan><tspan class="d"> deposit applied, invoice sent</tspan></text></g>
+  <g class="l l10"><text x="28" y="356"><tspan class="g">▓ GATE     </tspan><tspan class="s"> confirm-payment</tspan><tspan class="d"> a human confirms the payment</tspan></text></g>
   <g class="l l11"><text x="28" y="394"><tspan class="p">$</tspan><tspan class="s"> lifecycle_advance</tspan><tspan class="d"> { simulatePayment: true }</tspan></text></g>
   <g class="l l12"><text x="28" y="424"><tspan class="ok">✔ closed   </tspan><tspan class="s"> paid · review requested · rate engine taught</tspan><tspan class="d"> — nothing dropped</tspan></text></g>
 </svg>
