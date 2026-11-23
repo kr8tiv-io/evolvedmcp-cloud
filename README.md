@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/hero.png" alt="EVOLVED: business-in-a-box, run by an AI, over a boreal aurora" width="100%">
+<img src="assets/hero.png" alt="EVOLVE: business-in-a-box, run by an AI, over a boreal aurora" width="100%">
 
 # evolvedmcp.cloud
 
-### The landing page and zero-install playground for **Evolved**, a company-in-a-box for service businesses.
+### The landing page and zero-install playground for **Evolve**, a company-in-a-box for service businesses.
 
 A premium product site with a live, in-browser **Judge Mode**: run voice commands, photo-quote a driveway, and drive an autonomous business lifecycle through its human money gates, all against the live MCP endpoint, no install and no keys.
 
@@ -27,9 +27,9 @@ A premium product site with a live, in-browser **Judge Mode**: run voice command
 
 ## What this is
 
-**This repository is the website** — the marketing landing page and the interactive browser playground served at [www.evolvedmcp.cloud](https://www.evolvedmcp.cloud/). It is the front-of-house for **Evolved**, a complete, free, open-source business operating system built from the live operations system of a real Alberta abrasive-blasting company.
+**This repository is the website** — the marketing landing page and the interactive browser playground served at [www.evolvedmcp.cloud](https://www.evolvedmcp.cloud/). It is the front-of-house for **Evolve**, a complete, free, open-source business operating system built from the live operations system of a real Alberta abrasive-blasting company.
 
-Evolved is **four surfaces around one source of truth**: the 🧠 **MCP brain** (84 tools across 16 domains — [kr8tiv-ai/evolved](https://github.com/kr8tiv-ai/evolved)), the ✋ **crew field app** ([kr8tiv-ai/evolve-field-app](https://github.com/kr8tiv-ai/evolve-field-app)), the 📊 **Google Sheets workbook + Router spine** ([kr8tiv-ai/evolve-ops-workbook](https://github.com/kr8tiv-ai/evolve-ops-workbook)), and the 📈 **owner/administration dashboard** ([kr8tiv-ai/evolve-dashboard](https://github.com/kr8tiv-ai/evolve-dashboard), live at [ops.evolveecoblasting.com](https://ops.evolveecoblasting.com)). This repo is the *site* in front of all of it. Blasting is only the proving ground — `franchise_spinup` makes it any service business in one call.
+Evolve is **four surfaces around one source of truth**: the 🧠 **MCP brain** (82 tools across 15 domains — [kr8tiv-ai/evolved](https://github.com/kr8tiv-ai/evolved)), the ✋ **crew field app** ([kr8tiv-ai/evolve-field-app](https://github.com/kr8tiv-ai/evolve-field-app)), the 📊 **Google Sheets workbook + Router spine** ([kr8tiv-ai/evolve-ops-workbook](https://github.com/kr8tiv-ai/evolve-ops-workbook)), and the 📈 **owner/administration dashboard** ([kr8tiv-ai/evolve-dashboard](https://github.com/kr8tiv-ai/evolve-dashboard), live at [ops.evolveecoblasting.com](https://ops.evolveecoblasting.com)). This repo is the *site* in front of all of it. Blasting is only the proving ground — `franchise_spinup` makes it any service business in one call.
 
 The design brief was simple: **make it feel like a product launch, not a developer demo, and let a visitor understand and *try* the whole thing in about 60 seconds.** So the site leads with a one-click autopilot ("Judge Mode") that narrates the full story on its own, backed by real calls to the live service.
 
@@ -40,17 +40,17 @@ The design brief was simple: **make it feel like a product launch, not a develop
 |  |  |
 |:--:|:--:|
 | <img src="screenshots/01-cover.png" width="100%"><br><sub>Cinematic landing — aurora canvas, chrome wordmark, live business ticker</sub> | <img src="screenshots/02-lifecycle.png" width="100%"><br><sub>Judge Mode running the autonomous lifecycle, narrated live</sub> |
-| <img src="screenshots/04-toolkit.png" width="100%"><br><sub>The tool surface, rendered as a product feature grid</sub> | |
+| <img src="screenshots/03-money-gates.png" width="100%"><br><sub>Two human gates, both about money: approve the quote, mark the invoice paid</sub> | <img src="screenshots/04-toolkit.png" width="100%"><br><sub>The tool surface, rendered as a product feature grid</sub> |
 
 </div>
 
-## The 90-second film
+## The 75-second film
 
 Every figure in the film was captured live from the endpoint. It ships in this repo at [`demo/evolved-demo.mp4`](demo/evolved-demo.mp4) and streams on the live site.
 
 <div align="center">
 
-[![Watch the 90-second film](assets/og.png)](https://www.evolvedmcp.cloud/demo.mp4)
+[![Watch the 75-second film](assets/og.png)](https://www.evolvedmcp.cloud/demo.mp4)
 
 <sub>▶ Click to play the hosted cut · or open <a href="demo/evolved-demo.mp4">demo/evolved-demo.mp4</a> in this repo.</sub>
 
@@ -108,7 +108,7 @@ evolvedmcp-cloud/
 │   ├── hero-poster.webp    poster / reduced-motion still
 │   └── *.webp              feature-card imagery (decks, industrial, motors, corner log)
 ├── demo/
-│   └── evolved-demo.mp4    the 90-second film (1080p, on-brand, captioned)
+│   └── evolved-demo.mp4    the 75-second film (1080p, on-brand, captioned)
 ├── assets/                 branding — hero, social card (og.png), logos, gallery, SVGs
 ├── screenshots/            stills used in this README
 ├── LICENSE                 MIT
@@ -121,16 +121,16 @@ evolvedmcp-cloud/
 |---|---|
 | **Live site** | [www.evolvedmcp.cloud](https://www.evolvedmcp.cloud/) |
 | **Live admin dashboard** | [ops.evolveecoblasting.com](https://ops.evolveecoblasting.com) (login-gated) |
-| 🧠 The Evolved MCP (the brain, full source) | [github.com/kr8tiv-ai/evolved](https://github.com/kr8tiv-ai/evolved) |
+| 🧠 The Evolve MCP (the brain, full source) | [github.com/kr8tiv-ai/evolved](https://github.com/kr8tiv-ai/evolved) |
 | ✋ The crew field app (the hands) | [github.com/kr8tiv-ai/evolve-field-app](https://github.com/kr8tiv-ai/evolve-field-app) |
 | 📊 The workbook + Router (the spine) | [github.com/kr8tiv-ai/evolve-ops-workbook](https://github.com/kr8tiv-ai/evolve-ops-workbook) |
 | 📈 The owner/admin dashboard (the eyes) | [github.com/kr8tiv-ai/evolve-dashboard](https://github.com/kr8tiv-ai/evolve-dashboard) |
-| Health / status | [evolvedmcp.cloud/health](https://www.evolvedmcp.cloud/health) · [/stats](https://www.evolvedmcp.cloud/stats) |
+| Health / status | [evolvedmcp.cloud/health](https://www.evolvedmcp.cloud/health) |
 | The studio | [kr8tiv.io](https://kr8tiv.io) |
 
 ## Credits
 
-Designed and built by **[Matt Haynes](https://github.com/Matt-Aurora-Ventures)** — founder of **KR8TIV AI** (Edmonton, Alberta) — as the front-of-house for the Evolved MCP service. Front-end engineering pairing with **Claude** (Anthropic).
+Designed and built by **[Matt Haynes](https://github.com/Matt-Aurora-Ventures)** — founder of **KR8TIV AI** (Edmonton, Alberta) — as the front-of-house for the Evolve MCP service. Front-end engineering pairing with **Claude** (Anthropic).
 
 Built from the brand and live operations system of **[Evolve Eco Blasting](https://www.evolveecoblasting.com)**.
 
